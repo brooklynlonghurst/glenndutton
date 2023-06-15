@@ -2,9 +2,10 @@ body {
   background-color: #1a2d3d;
   color: white;
   position: relative;
+  font-family: 'Roboto', sans-serif;
 }
 
-.nav {
+nav {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -13,4 +14,13 @@ body {
   background-color: #1a2d3d;
   width: 100%;
   font-size: large;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover{
+  color: #385d7b;
 }
