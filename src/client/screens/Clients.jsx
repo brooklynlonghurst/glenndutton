@@ -2,7 +2,7 @@ import React from "react";
 
 function Clients() {
     return (
-        <div>
+        <section>
             <h1>Clients Page</h1>
             <p>
                 American Express
@@ -24,7 +24,7 @@ function Clients() {
                 Utah Dental Association
                 U.S. Department of the Interior
             </p>
-        </div>
+        </section>
     )
 }
 

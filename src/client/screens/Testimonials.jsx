@@ -2,7 +2,7 @@ import React from "react";
 
 function Testimonials() {
     return (
-        <div>
+        <section>
             <h1>Testimonials Page</h1>
             <p>
                 Glenn Dutton has worked with me over the past 15 years in presentations to corporate/organizational audiences ranging from 40 to 1000 participants throughout the country. He is an effective and personable teacher, kind and charismatic in working with people. Glenn walks his talk – and lives a centered and conscious life. Anyone who works with Glenn will love him and deeply appreciate his work.
@@ -19,7 +19,7 @@ function Testimonials() {
                 - Peter C   
                 Talent Strategy, Executive Search
             </p>
-        </div>
+        </section>
     )
 }
 

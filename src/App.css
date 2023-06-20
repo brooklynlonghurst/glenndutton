@@ -24,3 +24,11 @@ nav {
 .link:hover{
   color: #385d7b;
 }
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
